@@ -2,7 +2,7 @@
 
 This set of code is a starter package for initiating a React project. It includes essential dependencies and configurations to get you up and running quickly with a React application.
 
-#Usage
+# Usage
 
 1.Install dependencies: npm install or yarn install
 2.Start the development server: npm start or yarn start
